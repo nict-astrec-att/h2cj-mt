@@ -1,0 +1,54 @@
+<Paragraph><SOURCE>
+通人為真似
+【「通人為真似：全」と内容はまったく同じでこちらのほうが摺りの状態がいいです。
+いちおう、全コマを翻刻完了にしておきますが、必要な場合は翻刻してください。
+別刷りのURLは編集履歴で見られるようにしておきます。】
+安永七□
+【整理番号の下】
+マ
+</SOURCE><TARGET>
+通人為真似（まのふりをして）
+【「通人為真似：全」と内容はまったく同じで、こちらの版の方が摺りの状態が良いです。
+いちおう、全コマを翻刻完了にしておきますが、必要な場合は翻刻してください。
+別刷りのURLは編集履歴で見られるようにしておきます。】
+安永七□
+【整理番号の下】
+マ
+</TARGET></Paragraph>
+
+<Paragraph><SOURCE>
+通人為真似（まのふりをして）
+</SOURCE><TARGET>
+通人為真似（まのふりをして）
+</TARGET></Paragraph>
+<Paragraph><SOURCE>
+【鉛筆で】
+安永七戌年
+</SOURCE><TARGET>
+【鉛筆で】
+安永七年戌年
+</TARGET></Paragraph>
+
+<Paragraph><SOURCE>
+【墨で】
+おわりや 友二郎
+【友の右に何か書きかけて消したあと】
+</SOURCE><TARGET>
+【墨で】
+尾張屋 友二郎
+【友の右に何か書きかけて消した跡】
+</TARGET></Paragraph>
+
+<Paragraph><SOURCE>
+六
+</SOURCE><TARGET>
+六
+</TARGET></Paragraph>
+
+<Paragraph><SOURCE>
+【左ページ、墨で】
+尾張屋 友次郎 六
+</SOURCE><TARGET>
+【左ページ、墨で】
+尾張屋 友次郎 六
+</TARGET></Paragraph>
