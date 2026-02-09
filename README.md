@@ -4,18 +4,18 @@
 
 ### data-20260207
 
-みんなで翻刻 v3データと同様のディレクトリ構造，資料IDで，原文ファイル `(ID).txt` と訳文ファイル `(ID).txt` を格納しています．
+みんなで翻刻 v3 データと同様のディレクトリ構造，資料IDで，原文ファイル `(ID).txt` と訳文ファイル `(ID).txt.trans.txt` を格納しています．
 
 - 翻訳モデル：NICTで研究開発中の多言語・多文化翻訳システムを使用．
-- 入力テキスト：「[みんなで翻刻](https://github.com/yuta1984/honkoku-data/tree/master/v3)」v3データの原文（翻刻）テキスト．原文テキストを資料（書籍）単位で連結したものを使用しています．
-- 翻訳の方法：翻訳モデルにより，原文のパラグラフ単位へ自動分割と訳文テキスト生成を実行しています．
+- 入力テキスト：「[みんなで翻刻](https://github.com/yuta1984/honkoku-data/tree/master/v3)」v3 データの原文（翻刻）テキスト．原文テキストを資料（書籍）単位で連結したものを使用しています．
+- 翻訳の方法：翻訳モデルにより，原文のパラグラフ単位への自動分割と訳文テキスト生成を実行しています．
 - 出力データ形式：原文パラグラフと訳文パラグラフが `<Paragraph><SOURCE>...</SOURCE><TARGET>...</TARGET></Paragraph>` のタグで囲まれた形式になっています．
-- 出力データのライセンス：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja).
+- データのライセンス：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja).
 
-# 更新履歴
+## 更新履歴
 
 - 2026/02/09 data-20260207 公開
 
-# 本データの管理者
+## 本データの管理者
 
 Shohei Higashiyama (NICT)
